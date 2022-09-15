@@ -4,6 +4,12 @@
 
 ![gif](https://user-images.githubusercontent.com/30334760/190209983-c4741f7d-2536-45a4-8b55-268641fe2627.gif)
 
+## 📲 Link do deploy
+
+Use a aplicação em [[Link do deploy](https://strong-boba-0df313.netlify.app/)] 
+
+
+
 ## 📑 Sobre o projeto
 
 Qual o intuito do projeto? Foi realizado como estudo do Curso na udemy do mestre Daniel Taipas
